@@ -1,0 +1,17 @@
+using System;
+using System.Text.RegularExpressions;
+
+public class Program
+{
+	public static void Main()
+	{
+		string json = "\"{\"trajectory\":[{\"MD\":0,\"In\":0,\"Az\":0,\"TVD\":0}]}\"";
+		string result = Regex.Replace(json, @"(\""Children\""\:(.|\n)*?)(\{(.|\n)*\{(.|\n)*?\}(.|\n)*?\})", (m) =>
+		{
+			return (m.Groups[1] + "\"" + Regex.Replace(m.Groups[3].Value.Replace("\n", " "), @"\s+", " ") + "\"");
+		}
+
+		);
+		Console.WriteLine(result);
+	}
+}
