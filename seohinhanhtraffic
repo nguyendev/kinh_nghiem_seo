@@ -1,0 +1,49 @@
+Hướng dẫn seo hình ảnh lên top google 2023
+Hello 500 ae! lại là Quyết đẹp trai đây, khá lâu rồi mình không post gì để chia sẻ với ae
+Thú thật với ae mình cũng không nghĩ SEO hình ảnh giúp website có nhiều traffic đến như vậy luôn 🙂
+Vô tình mình vọc vạch trong google search console thấy có dữ liệu là “LOẠI TÌM KIẾM HÌNH ẢNH” thì mình thấy khá là bất ngờ vì tổng lượt hiển thì cực kỳ cao nhưng “VỊ TRÍ TRUNG BÌNH” và “CTR TRUNG BÌNH” lại quá thấp → Mình nghĩ đây là 1 cơ hội lớn để có thể kéo nhiều traffic. chỉ cần tăng 0.1 - 0.2 chỉ số CTR thôi là traffic cũng bao la rồi ae :v
+Cho ae nào chưa biết thì “LƯỢT HIỂN THỊ” trong google search console là “Một lượt hiển thị được tính khi người dùng nhìn thấy (hoặc có khả năng đã nhìn thấy) đường liên kết đến trang web của bạn trên Tìm kiếm, Khám phá hoặc Tin tức.”
+AE có thể xem ở đây https://support.google.com/webmasters/answer/7042828...
+Đầu tiên bạn cần phải hiểu các yếu tố nào ảnh hưởng nhiều tới thứ hạng từ khóa
+cái này cũng khá đơn giản bạn có thể xem tài liệu chính chống của google tại: https://developers.google.com/.../appear.../google-images...
+Một số yếu tố mà mình thấy ảnh hưởng nhiều tới thứ hạng của hình ảnh
+Độ unique của hình ảnh
+Bài viết đang top → hình ảnh cũng rất dễ lên theo và ngược lại
+Định dạng ảnh phù hợp ( webp hoặc  jpeg)
+Tối ưu dung lượng & kích thước hình ảnh
+Đặt tên cho hình ảnh
+Thêm thẻ ALT, mô tả, chú thích…
+Tối ưu metadata: title ảnh, author, đánh giá 5 sao… → gọi tắt là siêu dữ liệu ảnh
+Có 1 case của idol Matthew Woodward về việc tối ưu siêu dữ liệu hình ảnh  
+Ae có thể xem tại đây nè: https://www.youtube.com/watch?v=6lmeRBxQCRI
+Cá nhân mình thì xưa giờ mình cũng tối ưu hình ảnh các thứ khá ổn áp có điều là thiếu phần tối ưu Tối ưu metadata thôi à 🙂
+Do đây là phần hướng dẫn khá chi tiết và cần hình ảnh minh họa nên mình đã làm thành file PDF để hướng dẫn ae dể hiểu hơn
+https://drive.google.com/.../1kS0.../view
+Bước 1: vào search console → “Kết quả tìm kiếm” → “Loại tìm kiếm” → “Hình ảnh” → “ÁP DỤNG”
+Bước 2: Kèo xuống dưới click vào tab → “TRANG” → “Lượt hiển thị” —> Chọn URL có lượt hiển thị cao để tối ưu (xem hình số 2)
+Bước 3: Sau khi chọn URL muốn tối ưu thì ae chọn vào → “CỤM TỪ TÌM KIẾM” → “Lượt hiển thị” → “Xuất file” ( xem hình số 3)
+Sau khi xuất file ra thì được 1 file dữ liệu như hình số 4, Ae chú ý tối cốt “Truy vấn tìm kiếm phổ biến nhất” và “lượt hiển thị” → mình sẽ chọn các từ khóa hiển thị cao để tối ưu → mục đích giúp các từ khóa này ranking càng cao càng tốt → vì đây là những từ khóa được user tìm kiếm rất nhiều → cơ hội họ click vào web cao hơn.
+Bước 4: vào URL đã chọn ở “Bước 2” và tải toàn bộ hình ảnh về để tối ưu ( bước này khá đơn giản nên khỏi cần hình minh họa nha mấy mẹ :)) )
+Bước 5: Tối ưu lại hình ảnh → vào https://app.sonatools.io/ → “Geo Tag” → “Tải lên” → chọn toàn bộ ảnh đã dowload về ở “BƯỚC 4” → chọn cấu hình sonatools giống hình số 5
+Điền các thông số vào các trường dữ liệu: 
+Kinh độ, vĩ độ → lấy ở google maps
+Từ khóa phụ → lấy ở file từ khóa xuất ra trong bước 3
+Copy Right → điền tên website
+Author → điền tên tác giả bài viết
+Camera Manufacturer → điền tên nhà sản xuất máy ảnh ( ví dụ: Apple)
+Camera Model → điền tên máy ảnh ( ví dụ: Iphone 14 pro max)
+Application Name → điền tên ứng dụng ( ví dụ: camera)
+→ Sau đó lưu cấu hình lại để sử dụng cho lần sau ( lần sau tải ảnh lên thì chỉ việc chọn cấu hình không cần và điền từ khóa phụ chứ không cần nhập các thông số khác) → CLICK “BÁT ĐẦU THỰC HIỆN”  Xem ảnh số 6 để thao tác nhá
+Sau khi hình ảnh được tối ưu xong → “TẢI TẤT CẢ” xuống ( xem hình số 7)
+Lưu ý quan trọng: ở bước này thì hình ảnh của ae phải giữ nguyên tên như lúc đầu, vì nếu đổi tên hình ảnh đồng nghĩa với việc ae SEO lại từ đầu nha, ngoài ra ae nên kiểm tra lại chất lượng hình ảnh để tránh trường hợp nén quá nhiều dẫn tới tình trạng ảnh bị vỡ ảnh hưởng tới trải nghiệm người dùng
+Vậy là ae đã tối ưu xong hình ảnh rồi, bây giờ nhiệm vụ của chúng ta là up hình ảnh lên website để thay thế hình ảnh cũ. 
+Bước 6: xác định hình trong bài viết nằm ở foder nào trên hosting → click chuột phải vào hình ảnh →  “Mở hình ảnh trong thẻ mới
+Xem URL hình ảnh để xác định vị trí của hình trong hosting
+Ví dụ: ở hình ảnh này thì URL báo ảnh up lên vào 03/2021 ( Xem hình số 😎
+Bước 7: Truy câp vào hosting và tìm foder chứa hình ảnh
+Vào File manager → Public_html → Wp_Content → uploads → tìm đúng folder 03/2021 → up file hình ảnh đã tối ưu lên ( xem hình 9, 10, 11, 12, 13, 14, 15, 16, 17, 19)
+Bước 8: giải nén file hình ảnh đã được tải lên ( xem hình 16)
+Bước 9: cuối cùng ae có thể vào google search console để index lại link vừa mới tối ưu là xong
+Chúc bạn thành công!! Share to be shared more
+#seosona #tranchiquyet #sonatools
+P/S: sợ ae đọc bài hơi rối mình có để link video ở cmt nhé 😃
